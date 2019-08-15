@@ -29,8 +29,6 @@ Limitation:
     additional log files created.
 
     Author:         Seyed-Mahdy Sadraddini
-    Creation Date:  March 31, 2019
-    Last Updated :  April 02, 2019
 ----------------------------------------------------------------
 ''')
 
