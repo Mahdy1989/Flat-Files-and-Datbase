@@ -38,8 +38,6 @@ Limitation:
                         "..._ProcessLog.txt"
 
     Author:         Seyed-Mahdy Sadraddini
-    Creation Date:  March 31, 2019
-    Last Updated :  April 22, 2019
 ----------------------------------------------------------------
 ''')
 
